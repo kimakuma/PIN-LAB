@@ -7,3 +7,4 @@ project-3. Two-Way Real-Time Voice Communication on Raspberry PI <br>
 project-4. Distribution WAV file recorder linked Cloud Database based on Docker <br>
 project-5. Text conversion of WAV file using Google Cloud Platform Speech-to-Text API <br>
 project-6. Number Recognition based on MNIST data set <br>
+project-7. DDS Study
